@@ -8,4 +8,4 @@
 
 🍿 We are a fully remote team for now, so we eat what's available.
 
-📚 Here's our tech stach: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/bowfun/bow-network)
+📚 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/bowfun/bow-network)
