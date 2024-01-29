@@ -11,7 +11,7 @@
 - **Elite Wars:** Our twist on the popular games Skywars and Bedwars.
 - **Battle Legends:** A collection of epic battle arenas.
 - **Water World:** A custom-built, quest-driven, PvE, MMO game.
-- **Lifesteal:** Our twist on the famous Lifesteal gamemode, featuring a suite of custom items.
+- **Lifesteal:** Our twist on the famous Lifesteal game, featuring a ton of custom items.
 
 🤝 **Connect with Us:**
 - Apply to become a Tester: [Apply Here](https://www.bownet.xyz/applytester)
@@ -22,6 +22,7 @@
 
 🚀 **Join the Adventure!**
 - Stay tuned for the official launch of Bow Network!
+- Learn about the testers program, which allows you early access, [here](https://wiki.bownet.xyz/en/testers).
 
 📷 **Socials**
 - We have a Linktree page [here](https://linktr.ee/bownetwork).
