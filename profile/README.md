@@ -23,6 +23,9 @@
 🚀 **Join the Adventure!**
 - Stay tuned for the official launch of Bow Network!
 
+📷 **Socials**
+- We have a Linktree page [here](https://linktr.ee/bownetwork).
+
 👩‍💻 **Development and Docs:**
 - Run by [Blast Off Waters](http://blastoffwaters.com), and we welcome community contributions via pull requests or issues on our public code.
 - Our documentation is [here](https://plugins.bownet.xyz). More development to come, as we have been prioritizing projects for Blast Off Waters.
